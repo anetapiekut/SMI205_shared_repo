@@ -1,0 +1,46 @@
+---
+title: "Shared document to edit"
+author: "Aneta Piekut and SMI205 students"
+date: "2023-05-11"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- These are notes which are not visible after knitting the file
+-->
+
+# 1. Reproducible research means...
+<!-- Explain in a way a lay person would easily understand what reproducible research is. Feel free to use a metaphor or not be entirely serious
+-->
+
+# 2. Benefits of conducting reproducible research 
+<!-- List a few benefits of doing reproducible research for different community groups, international community or any research communities
+-->
+
+## Benefits for society
+
+- Text here
+
+## For individual researchers
+
+- Text here
+
+# 3. Challanges in doing open research 
+<!-- Why employing fully open research is not (yet) possible?
+-->
+
+- Text here
+
+# 4. Top three learning points from the SMI205 module for future
+<!-- What practices you think will be useful for you next year when writing a dissertation or in future career?
+-->
+
+- Text here
