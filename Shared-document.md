@@ -3,22 +3,15 @@ Shared document to edit
 Aneta Piekut and SMI205 students
 2023-05-11
 
--   <a href="#1-reproducible-research-means"
-    id="toc-1-reproducible-research-means">1. Reproducible research
-    means…</a>
--   <a href="#2-benefits-of-conducting-reproducible-research"
-    id="toc-2-benefits-of-conducting-reproducible-research">2. Benefits of
-    conducting reproducible research</a>
-    -   <a href="#benefits-for-society" id="toc-benefits-for-society">Benefits
-        for society</a>
-    -   <a href="#for-individual-researchers"
-        id="toc-for-individual-researchers">For individual researchers</a>
--   <a href="#3-challanges-in-doing-open-research"
-    id="toc-3-challanges-in-doing-open-research">3. Challanges in doing open
-    research</a>
--   <a href="#4-top-three-learning-points-from-the-smi205-module-for-future"
-    id="toc-4-top-three-learning-points-from-the-smi205-module-for-future">4.
-    Top three learning points from the SMI205 module for future</a>
+-   [1. Reproducible research means…](#1-reproducible-research-means)
+-   [2. Benefits of conducting reproducible
+    research](#2-benefits-of-conducting-reproducible-research)
+    -   [Benefits for society](#benefits-for-society)
+    -   [For individual researchers](#for-individual-researchers)
+-   [3. Challanges in doing open
+    research](#3-challanges-in-doing-open-research)
+-   [4. Top three learning points from the SMI205 module for
+    future](#4-top-three-learning-points-from-the-smi205-module-for-future)
 
 <!-- These are notes which are not visible after knitting the file
 -->
@@ -59,4 +52,9 @@ ingredients and equipment beforehand.
 <!-- What practices you think will be useful for you next year when writing a dissertation or in future career?
 -->
 
--   Text here
+-   1.  critically analysing a quant literature review and including our
+        own results
+
+-   2.  expanding on our r knowledge as well as now using github
+
+-   3.  importance of replication and reproducibility

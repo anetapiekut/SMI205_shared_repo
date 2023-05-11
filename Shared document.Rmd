@@ -44,4 +44,6 @@ Reproducible research is enabling others to test your research to see if you get
 <!-- What practices you think will be useful for you next year when writing a dissertation or in future career?
 -->
 
-- Text here
+- 1. critically analysing a quant literature review and including our own results
+- 2. expanding on our r knowledge as well as now using github
+- 3. importance of replication and reproducibility 
