@@ -28,6 +28,12 @@ Aneta Piekut and SMI205 students
 <!-- Explain in a way a lay person would easily understand what reproducible research is. Feel free to use a metaphor or not be entirely serious
 -->
 
+Reproducible research is enabling others to test your research to see if
+you get the same results. To help others to test your research, you must
+provide as much information as possible. It is like asking someone to
+test a new recipe, and helping them test it by providing all the
+ingredients and equipment beforehand.
+
 # 2. Benefits of conducting reproducible research
 
 <!-- List a few benefits of doing reproducible research for different community groups, international community or any research communities
