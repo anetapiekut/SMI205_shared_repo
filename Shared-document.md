@@ -1,7 +1,6 @@
-Shared document to edit
+Shared document to copy & edit
 ================
-Aneta Piekut and SMI205 students
-2024-05-07
+Your name and date here
 
 -   [1. Reproducible research means…](#1-reproducible-research-means)
 -   [2. Benefits of conducting reproducible
@@ -18,10 +17,10 @@ Aneta Piekut and SMI205 students
 
 # 1. Reproducible research means…
 
-<!-- Explain in a way a lay person would easily understand what reproducible research is. Feel free to use a metaphor or not be entirely serious
+<!-- Explain in a way a lay person would easily understand what reproducible research is. Feel free to use a metaphor or not be entirely serious.
 -->
 
-Student 1 to write here
+Student to write here
 
 # 2. Benefits of conducting reproducible research
 
@@ -30,22 +29,22 @@ Student 1 to write here
 
 ## Benefits for society
 
-Student 2 to write here
+Student to write here
 
 ## For individual researchers
 
-Student 3 to write here
+Student to write here
 
 # 3. Challanges in doing open research
 
 <!-- Why employing fully open research is not (yet) possible?
 -->
 
-Student 4 to write here
+Student to write here
 
 # 4. Top three learning points from the SMI205 module for future
 
 <!-- What practices you think will be useful for you next year when writing a dissertation or in future career?
 -->
 
-Student 5 to write here
+Student to write here
