@@ -1,6 +1,6 @@
 Shared document to copy & edit
 ================
-Your name and date here
+Alan Rubio. 07/05/2024
 
 -   [1. Reproducible research means…](#1-reproducible-research-means)
 -   [2. Benefits of conducting reproducible
@@ -17,34 +17,33 @@ Your name and date here
 
 # 1. Reproducible research means…
 
-<!-- Explain in a way a lay person would easily understand what reproducible research is. Feel free to use a metaphor or not be entirely serious.
--->
+research in which the steps and processes taken to achieve the result are clear, freely available and complete to encourage certain principles behind research and data.
 
-Student to write here
 
 # 2. Benefits of conducting reproducible research
-
-<!-- List a few benefits of doing reproducible research for different community groups, international community or any research communities
--->
+- Misinformation/interpretation is harder to spread.
+- Discourgaes dishonest behaviour from researchers.
 
 ## Benefits for society
 
-Student to write here
+Misinformation harder to spread
+more robust checking of scientific research
 
 ## For individual researchers
 
-Student to write here
+Encourages principles behind free and open research
+less space for mistakes.
+more inter-peer communication
 
 # 3. Challanges in doing open research
 
-<!-- Why employing fully open research is not (yet) possible?
--->
+ensuring reproducibility. 
+encouraging more researchers to take this up.
+(privately) funded research
 
-Student to write here
 
 # 4. Top three learning points from the SMI205 module for future
 
-<!-- What practices you think will be useful for you next year when writing a dissertation or in future career?
--->
-
-Student to write here
+- Github repository
+- OSF
+- renv package
